@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> sample webpage</title>
+<link rel="stylesheet"href="css/style.css"> 
+</head>
+<body> 
+      <div id="container">
+	<header>
+<img src="images/neclogo.jpg">
+<img src="images/nec.jpg">
+<h1>NARASARAOPET ENGINEERING COLLEGE</h1>
+	</header>
+	<nav>
+<ul>
+   <li><a href="#">HOME</a></li>
+    <li><a href="#">ABOUT US</a></li>
+    <li><a href="#">LOGIN</a></li>
+     <li><a href="#">REGISTRATION</a></li>
+    <li><a href="#">CATALOGUE</a></li>
+</ul>
+	</nav>	
+        <div id="content-area">
+        <div id="v-nav"</div>
+        <ul>
+<ol>
+	<li><a href="#">CSE</a></li>
+	<li><a href="#">ECE</a></li>
+	<li><a href="#">EEE</a></li>
+	<li><a href="#">CIVL</a></li>
+        <li><a href="#">MECHANICAL</a></li>
+<ol>
+	</ul>
+       </div>
+	<footer>
+        </footer>
+      </div>
+      
+</body
+</html>
